@@ -14,7 +14,7 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "Di si por favor",
+    description: "Alexandra Gomez Di si por favor",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
